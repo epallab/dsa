@@ -1,0 +1,61 @@
+0. Time and Space complexity - done
+1. Data Structures
+  These are ways to organize and store data efficiently.
+
+    Linear Data Structures
+      Arrays
+      Linked Lists (Singly, Doubly, Circular)
+      Stacks
+      Queues (Simple, Circular, Priority, Deque)
+
+    Non-Linear Data Structures
+      Trees (Binary Tree, BST, AVL, Segment Tree, Trie, Heap)
+      Graphs (Adjacency Matrix/List, BFS, DFS, Dijkstra, Floyd-Warshall)
+
+    Hashing
+      Hash Tables
+      Hash Maps
+      Collision Resolution Techniques
+
+2. Algorithms
+  Algorithms are step-by-step instructions to solve problems efficiently.
+
+    Sorting Algorithms
+      Bubble Sort, Selection Sort, Insertion Sort
+      Merge Sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort
+
+    Searching Algorithms
+      Linear Search
+      Binary Search (Iterative, Recursive)
+
+    Recursion & Backtracking
+      Factorial, Fibonacci, Tower of Hanoi
+      N-Queens Problem, Sudoku Solver
+
+    Dynamic Programming (DP)
+      0/1 Knapsack, Unbounded Knapsack
+      Longest Common Subsequence (LCS), Longest Increasing Subsequence (LIS)
+      Matrix Chain Multiplication
+      Coin Change Problem
+
+    Greedy Algorithms
+      Huffman Coding
+      Activity Selection
+      Dijkstra’s Algorithm
+      Kruskal’s Algorithm
+
+    Graph Algorithms
+      BFS, DFS
+      Dijkstra’s Algorithm
+      Floyd-Warshall, Bellman-Ford
+      Minimum Spanning Tree (Kruskal, Prim)
+
+    Bit Manipulation
+      XOR tricks
+      Bitwise operations
+
+3. Problem-Solving Paradigms
+    Sliding Window (Max Sum Subarray, Longest Substring without Repeating Characters)
+    Two Pointers (Pair Sum, Triplet Sum, Dutch National Flag)
+    Divide and Conquer (Merge Sort, Quick Sort)
+    Disjoint Set Union (DSU) (Union-Find, Path Compression)
